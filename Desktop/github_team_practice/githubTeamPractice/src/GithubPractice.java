@@ -27,7 +27,7 @@ public class GithubPractice {
 
 
         //mustafa_msk 29-34
-
+        System.out.println("Mustafa icin 1. version");
 
 
 
