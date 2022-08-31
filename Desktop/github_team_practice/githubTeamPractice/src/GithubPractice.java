@@ -2,6 +2,8 @@ public class GithubPractice {
     public static void main(String[] args) {
 
 
+
+
         //musa_bey 5-10
         System.out.println("Musa gurbuz");
 
@@ -39,6 +41,7 @@ public class GithubPractice {
 
 
         //fatma_k 41-46
+        System.out.println("1. deneme");
 
     }
 }
