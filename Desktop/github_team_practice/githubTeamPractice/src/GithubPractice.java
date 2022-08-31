@@ -30,8 +30,8 @@ public class GithubPractice {
 
         //mustafa_msk 29-34
         System.out.println("Mustafa icin 1. version");
-
-
+        System.out.println("Mustafa icin 2. version");
+        System.out.println("Mustafa icin 3. version");
 
 
         //yusuf_demir 35-40
